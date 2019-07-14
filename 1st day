@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>百度前端技术学院</h1>
+    <p>66天挑战学习web前端技术！</p>
+    <pre>
+<python 3.7.3>
+rate = 0.1 //每天进步10%
+first_day = 1 //开始基数为1
+for i in range(66):
+    first_day *= 1 + rate
+    last_day = first_day //经过66天不断努力学习
+print(last_day) //最后成长是刚开始时的539倍</pre>
+  </body>
+</html>
